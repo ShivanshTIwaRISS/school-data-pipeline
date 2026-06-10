@@ -27,5 +27,4 @@ School | City | Category | Website | Description | Verification Status | Address
 
 ## Notes
 - No fabricated or estimated data
-- Phone numbers formatted as (XXX) XXX-XXXX
-- Websites stored without https:// or www. prefix
+
